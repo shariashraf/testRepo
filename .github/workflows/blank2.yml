@@ -2,7 +2,7 @@
 
 name: CI
 
-# Controls whenl;k;lk     kjklj the workflow will run
+# Controls when Changes made in this form no need to commit the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
